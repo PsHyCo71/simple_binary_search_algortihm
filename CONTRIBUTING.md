@@ -19,7 +19,7 @@ This project implements a simple binary search algorithm to find an integer with
 4. Commit your changes with a descriptive message:
 
     ```bash
-    git commit -m "descrizione del commit"
+    git commit -m "commit description"
     ```
 
 5. Push your branch to your fork
